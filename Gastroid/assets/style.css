@@ -1,0 +1,33 @@
+/* CSS Document */
+.overlined {
+	text-decoration: line-through;
+	color: #A0A0A0 ;
+	
+}
+.polevky {
+	list-style-type: none;
+	background-color: rgba(198, 3, 37, 0.8); 
+	color: white;
+}
+
+.jidla {
+	color: white;
+}
+
+.date {
+	color: white;
+}
+
+.print {
+	color: white;
+}
+
+.icon {
+	color: white;
+}
+
+h3 {
+	color: white;
+	margin-bottom: -7pt;
+}
+

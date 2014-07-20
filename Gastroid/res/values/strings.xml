@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gastroid</string>
+    <string name="title_section1">Dnes</string>
+    <string name="title_section2">Týden</string>
+    <string name="title_section3">Kontakt</string>
+    <string name="action_settings">O aplikaci</string>
+    <string name="refresh_widget">stahuji jídelníček</string>
+    <string name="menu_refresh">Obnovit</string>
+    <string name="day">Den</string>
+    <string name="monday">Pondělí</string>
+    <string name="tuesday">Úterý</string>
+    <string name="wednesday">Středa</string>
+    <string name="thursday">Čtvrtek</string>
+    <string name="friday">Pátek</string>
+    <string name="saturday">Sobota</string>
+    <string name="sunday">Neděle</string>
+    <string name="about">Jídelníček pro stravovací zařízení Gastrom</string>
+    <string name="author">Jiří Macháček</string>
+    <string name="authorEmail">jiri.machacek87@gmail.com</string>
+    <string name="donate">PayPal donate button</string>
+    <string name="GASTROM">GASTROM</string>
+    <string name="Gastrom">Gastrom</string>
+    <string name="street">Bratří Štefanů 1143</string>
+    <string name="cityzip">Hradec Králové 500 03</string>
+    <string name="gastromphone">Tel.: +420 495 445 367</string>
+    <string name="gastromemail">E-mail: info@gastrom.cz</string>
+    <string name="logo">Gastrom favicon</string>
+    <string name="refresh">tlačítko obnovit</string>
+    <string name="noconnectivity">chybí připojení k síti</string>
+    
+    
+    
+
+</resources>
